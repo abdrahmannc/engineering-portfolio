@@ -36,7 +36,7 @@ Ich entwickle Systeme, die Rohdaten in intelligente Entscheidungen umwandeln:
 
 📌 **Audio DSP Project**  
 Signal analysis using FFT and spectrograms  
-→ https://github.com/abdrahmannc/audio-dsp-project
+→ https://github.com/abdrahmannc/audio-dsp-project-
 
 ---
 
