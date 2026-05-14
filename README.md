@@ -34,8 +34,13 @@ Ich entwickle Systeme, die Rohdaten in intelligente Entscheidungen umwandeln:
 
 ## 🚀 Projekte
 
+
 📌 **Audio DSP Project**  
 Signal analysis using FFT and spectrograms  
+
+🚧 Dieses Repository befindet sich aktuell im Aufbau.
+Weitere DSP-Experimente und Audioanalyse-Module folgen schrittweise.
+
 → https://github.com/abdrahmannc/audio-dsp-project-
 
 ---
