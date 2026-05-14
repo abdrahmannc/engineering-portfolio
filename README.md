@@ -87,7 +87,7 @@ Notizen Master System:
 - Docker containerization
 - REST API architecture
 
-→ https://github.com/abdrahmannc/notizen-master
+→ https://github.com/abdrahmannc/NotizenMaster
 
 ---
 
